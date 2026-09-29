@@ -1,5 +1,5 @@
 # 💫 About Me:
- # Hi, I'm Abdo 👋 Flutter Developer & CS Student<br>🎓 Computer Science student at **Benha University**, currently interning at **DSC EGYPT**.<br>📱 I build scalable Flutter apps with **Clean Architecture**, **BLoC/Cubit**, **Firebase**, and REST backends.<br>🌱 Exploring native Android (Kotlin/Jetpack Compose) and the business side of software.
+ # Hi, I'm Abdulrahman 👋 Flutter Developer & CS Student<br>🎓 Computer Science student at **Benha University**, currently interning at **DSC EGYPT**.<br>📱 I build scalable Flutter apps with **Clean Architecture**, **BLoC/Cubit**, **Firebase**, and REST backends.<br>🌱 Exploring native Android (Kotlin/Jetpack Compose) and the business side of software.
 
 
 ## 🌐 Socials:
