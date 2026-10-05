@@ -4,7 +4,15 @@
 
 
 ---
-I'm a Computer Science student and **Flutter and native Android developer** building scalable, maintainable mobile applications. I turn designs into production-style apps using Clean Architecture, BLoC/Cubit, and REST APIs, working in Agile teams, and I'm interested in the business side of software as much as the engineering.
+## 👤 About
+ 
+- 🎓 Computer Science student at **Benha University**
+- 💼 Intern at **NTI** (May – August 2026)
+- 🌐 Technical member of **Google Developer Groups (GDG)**
+- 📱 Flutter and **native Android** development
+- 🔄 Experienced in **Agile** workflows: sprints, planning, code reviews, and iterative delivery
+- 🤝 Collaborate in teams, and lead and mentor small beginner teams on portfolio-grade projects
+- 🎨 Convert Figma designs into responsive interfaces
 
 ---
 
