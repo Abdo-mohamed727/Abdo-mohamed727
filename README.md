@@ -1,20 +1,146 @@
-# 💫 About Me:
- # Hi, I'm Abdulrahman 👋 Flutter Developer & CS Student<br>🎓 Computer Science student at **Benha University**, currently interning at **DSC EGYPT**.<br>📱 I build scalable Flutter apps with **Clean Architecture**, **BLoC/Cubit**, **Firebase**, and REST backends.<br>🌱 Exploring native Android (Kotlin/Jetpack Compose) and the business side of software.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Abdulrahman%20Mohammed%20Eldeep&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Flutter%20%26%20Native%20Android%20Developer&descSize=16&descAlignY=58" width="100%" />
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3bdulr7man.mo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdelrahman-mohammedd/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bq4EEBvMESVazi9t%2FdnguqA%3D%3D) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdo6193mohamed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelrahman.moh.116@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Abdo-mohamed727&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Abdo-mohamed727&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abdo-mohamed727&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a Computer Science student and **Flutter and native Android developer** building scalable, maintainable mobile applications. I turn designs into production-style apps using Clean Architecture, BLoC/Cubit, and REST APIs, working in Agile teams, and I'm interested in the business side of software as much as the engineering.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Abdo-mohamed727&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👤 About
 
- 
+- 🎓 Computer Science student at **Benha University**
+- 💼 Intern at **NTI** (May – August 2026)
+- 🌐 Technical member of **Google Developer Groups (GDG)**
+- 📱 Flutter and **native Android** development
+- 🔄 Experienced in **Agile** workflows: sprints, planning, code reviews, and iterative delivery
+- 🤝 Collaborate in teams, and lead and mentor small beginner teams on portfolio-grade projects
+- 🎨 Convert Figma designs into responsive interfaces
+
+---
+
+## 🛠️ Tech Stack
+
+| Area | Technologies |
+|---|---|
+| **Mobile** | Flutter, Dart, Native Android, Android Studio |
+| **Architecture** | Clean Architecture, MVVM, Dependency Injection (GetIt, Injectable) |
+| **State Management** | BLoC, Cubit |
+| **Networking** | Dio, REST APIs, GraphQL, JSON Serialization |
+| **Backend & Data** | Firebase (Auth, FCM), Supabase, Node.js, Express, MongoDB |
+| **Local Storage** | Hive, SharedPreferences, Flutter Secure Storage |
+| **Process** | Agile / Scrum, Git workflows, team collaboration |
+| **Tools** | Git, GitHub, VS Code, Figma |
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,mongodb,nodejs,git,github,vscode,figma" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🍴 DineFlow: Restaurant Ordering & Management System
+
+Full-stack platform built around real restaurant workflows, with a Flutter client and a Node.js/Express API.
+
+- Authentication with role-based navigation
+- Dine-in and takeaway ordering, table and dining-session management
+- Cart, checkout, and order status tracking
+- Kitchen Display System (KDS) with real-time order updates
+- Push notifications via Firebase Cloud Messaging
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC%2FCubit-6C5CE7?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![FCM](https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+### 🛍️ Store App: E-commerce with Admin Dashboard
+
+Flutter e-commerce application with a dedicated admin dashboard for managing products and orders.
+
+- Authentication, product browsing, search, favorites, and cart
+- User profile management
+- Admin dashboard for product and order management
+- GraphQL integration
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC%2FCubit-6C5CE7?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Dio](https://img.shields.io/badge/Dio-0175C2?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-FF6B6B?style=flat-square)
+
+### ⚡ BlinkBuy: E-commerce Application
+
+Full-stack e-commerce app with a Flutter client and a Node.js/MongoDB backend.
+
+- Favourites with optimistic UI updates, rollback on failure, and animated transitions
+- Profile image upload with Multer and Dio
+- State management with BLoC/Cubit and `BlocSelector` for efficient rebuilds
+- Dependency Injection with GetIt and Injectable
+- Built collaboratively in a team following **Agile** practices (sprints, task breakdown, code reviews)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC%2FCubit-6C5CE7?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square)
+![Dio](https://img.shields.io/badge/Dio-0175C2?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### 💬 Social App
+
+Social media application focused on user interaction and content sharing.
+
+- Authentication and user profiles
+- Posts, likes, and comments
+- User and content discovery
+- Supabase backend
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC%2FCubit-6C5CE7?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-FF6B6B?style=flat-square)
+
+---
+
+## 🎯 Current Focus
+
+- Building production-style Flutter and Android applications for my portfolio
+- Designing scalable architectures (Data / Domain / Presentation)
+- Real-time communication and push notifications
+- Strengthening Agile teamwork and mentoring skills
+- Problem solving and software architecture
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdo-mohamed727&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo-mohamed727&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contact
+
+<a href="https://github.com/Abdo-mohamed727">
+  <img src="https://img.shields.io/badge/GitHub-Abdo--mohamed727-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/abdelrahman-mohammedd/">
+  <img src="https://img.shields.io/badge/LinkedIn-Abdulrahman%20Mohammed-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:abdelrahman.moh.116@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,100:02569B&height=100&section=footer" width="100%" />
