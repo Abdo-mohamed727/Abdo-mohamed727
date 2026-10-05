@@ -1,13 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Abdulrahman%20Mohammed%20Eldeep&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Flutter%20%26%20Native%20Android%20Developer&descSize=16&descAlignY=58" width="100%" />
+ <img width="2043" height="770" alt="ChatGPT Image Oct 5, 2026, 04_55_28 PM" src="https://github.com/user-attachments/assets/14b6a8a7-5fab-4b45-b2ec-e7a942091fb0" />
+ 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</p>
 
+
+---
 I'm a Computer Science student and **Flutter and native Android developer** building scalable, maintainable mobile applications. I turn designs into production-style apps using Clean Architecture, BLoC/Cubit, and REST APIs, working in Agile teams, and I'm interested in the business side of software as much as the engineering.
 
 ---
