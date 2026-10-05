@@ -14,18 +14,7 @@
 - 🤝 Collaborate in teams, and lead and mentor small beginner teams on portfolio-grade projects
 - 🎨 Convert Figma designs into responsive interfaces
 
----
-
-## 👤 About
-
-- 🎓 Computer Science student at **Benha University**
-- 💼 Intern at **NTI** (May – August 2026)
-- 🌐 Technical member of **Google Developer Groups (GDG)**
-- 📱 Flutter and **native Android** development
-- 🔄 Experienced in **Agile** workflows: sprints, planning, code reviews, and iterative delivery
-- 🤝 Collaborate in teams, and lead and mentor small beginner teams on portfolio-grade projects
-- 🎨 Convert Figma designs into responsive interfaces
-
+ 
 ---
 
 ## 🛠️ Tech Stack
