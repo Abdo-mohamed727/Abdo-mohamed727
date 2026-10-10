@@ -8,6 +8,7 @@
  
 - 🎓 Computer Science student at **Benha University**
 - 💼 Intern at **NTI** (May – August 2026)
+- 💼 Intern at **DSC Egypt** 
 - 🌐 Technical member of **Google Developer Groups (GDG)**
 - 📱 Flutter and **native Android** development
 - 🔄 Experienced in **Agile** workflows: sprints, planning, code reviews, and iterative delivery
